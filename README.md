@@ -1,8 +1,15 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there!👋 I'm Jackson.</h2>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center"><br/>
+   <a href="https://www.linkedin.com/in/JacksonReber/">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+  </a>
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:JacksonReber@gmail.com)
+  </a>
+</p>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
