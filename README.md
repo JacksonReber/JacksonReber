@@ -5,7 +5,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/JacksonReber/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 
-<a href="https://www.linkedin.com/in/JacksonReber/" target="_blank"><img src="https://img.shields.io/badge/-JacksonReber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:JacksonReber@gmail.com)">
+<a href=mailto:JacksonReber@gmail.com><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
