@@ -3,7 +3,8 @@
 <h2> Hey there!👋 I'm Jackson.</h2>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-https://img.shields.io/badge/LinkedIn-Jackson's%20LinkedIn%20Profile-Blue
+
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjacksonreber%2F">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
