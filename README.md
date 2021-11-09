@@ -2,6 +2,12 @@
 
 <h2> Hey there!👋 I'm Jackson.</h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br />
+
+</a>
+<a href="https://www.linkedin.com/in/jacksonreber/">
+  <img align="left" alt="Jackson's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
