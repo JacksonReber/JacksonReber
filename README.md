@@ -36,9 +36,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jacksonreber/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jacksonreber/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JacksonReber-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="JacksonReber@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="JacksonReber@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-JacksonReber@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
