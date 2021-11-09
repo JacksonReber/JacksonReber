@@ -3,7 +3,7 @@
 <h2> Hey there!👋 I'm Jackson.</h2>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-[![Gmail Badge](https://img.shields.io/badge/-jacksonreber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacksonreber@gmail.com)](mailto:jacksonreber@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-JacksonReber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonreber/)](https://www.linkedin.com/in/jacksonreber/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
