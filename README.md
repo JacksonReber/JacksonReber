@@ -23,7 +23,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=JacksonReber&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=JacksonReber&repo=dev.to)](https://github.com/jacksonreber/dev.to)
 
 
 
