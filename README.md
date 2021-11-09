@@ -3,9 +3,7 @@
 <h2> Hey there!👋 I'm Jackson.</h2>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/JacksonReber/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:JacksonReber@gmail.com)
+https://img.shields.io/badge/LinkedIn-Jackson's%20LinkedIn%20Profile-Blue
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
