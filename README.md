@@ -2,9 +2,9 @@
 
 <h2> Hey there!👋 I'm Jackson.</h2>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjacksonreber%2F">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jacksonreber/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="" height="30" width="40" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
