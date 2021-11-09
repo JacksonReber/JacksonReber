@@ -24,7 +24,8 @@
 <br/>
 
 <a href="https://github.com/JacksonReber">
-  [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonReber)](https://github.com/JacksonReber/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonReber)]
+
 </a>
 
 <br/>
