@@ -4,7 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jacksonreber/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jacksonreber/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="50" />
+<a href="mailto:jacksonreber@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="" height="40" width="100" /></a>
+  
+
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
