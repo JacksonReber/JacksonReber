@@ -25,7 +25,9 @@
 
 
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonReber)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonReber&langs_count=5&theme=tokyonight)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonReber&hide=Jupyter Notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
