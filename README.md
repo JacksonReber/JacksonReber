@@ -2,8 +2,7 @@
 
 <h2> Hey there!👋 I'm Jackson.</h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonReber&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonReber&langs_count=5&theme=tokyonight&hide=CSS,SCSS,jupyter%20notebook)]()
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -27,3 +26,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
+
+[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonReber&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonReber&langs_count=5&theme=tokyonight&hide=CSS,SCSS,jupyter%20notebook)]()
