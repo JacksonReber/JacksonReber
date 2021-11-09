@@ -3,7 +3,9 @@
 <h2> Hey there!👋 I'm Jackson.</h2>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-[![Linkedin Badge](https://img.shields.io/badge/-JacksonReber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonreber/)](https://www.linkedin.com/in/jacksonreber/)
+<a href="https://www.linkedin.com/in/JacksonReber/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+<a href="https://www.linkedin.com/in/JacksonReber/" target="_blank"><img src="https://img.shields.io/badge/-JacksonReber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:JacksonReber@gmail.com)">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
