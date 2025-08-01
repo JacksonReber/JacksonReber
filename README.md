@@ -13,7 +13,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Always learning new things and developing my coding skills
-- 🎓 &nbsp; Studying Data Science at Lambda School.
+- 🎓 &nbsp; Studied Data Science at Lambda School.
 - 🌱 &nbsp; Learning more about Computer Science and all things Python.
 - ✍️ &nbsp; Pursuing personal projects and research as hobbies/side hustles.
 
